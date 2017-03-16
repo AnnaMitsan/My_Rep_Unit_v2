@@ -1,0 +1,13 @@
+\\vmware-host\Shared Folders\Desktop\My_Rep_Unit_v2\Rep_Unit2\bin\EntityFramework.xml
+\\vmware-host\Shared Folders\Desktop\My_Rep_Unit_v2\Rep_Unit2\bin\System.Web.Mvc.xml
+\\vmware-host\Shared Folders\Desktop\My_Rep_Unit_v2\Rep_Unit2\bin\Rep_Unit2.dll.config
+\\vmware-host\Shared Folders\Desktop\My_Rep_Unit_v2\Rep_Unit2\bin\Rep_Unit2.dll
+\\vmware-host\Shared Folders\Desktop\My_Rep_Unit_v2\Rep_Unit2\bin\Rep_Unit2.pdb
+\\vmware-host\Shared Folders\Desktop\My_Rep_Unit_v2\Rep_Unit2\obj\Debug\Rep_Unit2.Migrations.InitialCreate.resources
+\\vmware-host\Shared Folders\Desktop\My_Rep_Unit_v2\Rep_Unit2\obj\Debug\Rep_Unit2.Migrations.InitialCreate1.resources
+\\vmware-host\Shared Folders\Desktop\My_Rep_Unit_v2\Rep_Unit2\obj\Debug\Rep_Unit2.Migrations.MaxLengthOnNames.resources
+\\vmware-host\Shared Folders\Desktop\My_Rep_Unit_v2\Rep_Unit2\obj\Debug\Rep_Unit2.Migrations.ColumnFirstName.resources
+\\vmware-host\Shared Folders\Desktop\My_Rep_Unit_v2\Rep_Unit2\obj\Debug\Rep_Unit2.Migrations.Chap4.resources
+\\vmware-host\Shared Folders\Desktop\My_Rep_Unit_v2\Rep_Unit2\obj\Debug\My_Rep_Unit2.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\My_Rep_Unit_v2\Rep_Unit2\obj\Debug\Rep_Unit2.dll
+\\vmware-host\Shared Folders\Desktop\My_Rep_Unit_v2\Rep_Unit2\obj\Debug\Rep_Unit2.pdb
